@@ -1,0 +1,8 @@
+/vendor/
+/.phpunit.cache/
+/.phpstan.cache/
+composer.lock
+.idea/
+*.iml
+.vscode/
+*.local.md

@@ -1,0 +1,15 @@
+# normalize line endings
+* text=auto
+
+# git
+.gitattributes export-ignore
+.github/ export-ignore
+.gitignore export-ignore
+
+# tests
+phpstan.php export-ignore
+phpunit.xml.dist export-ignore
+tests/ export-ignore
+
+# other
+composer.lock export-ignore
